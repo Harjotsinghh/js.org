@@ -2860,6 +2860,7 @@ var cnames_active = {
   "shobhitchittora": "shobhitchittora.github.io",
   "short": "shortit.netlify.app",
   "shortio": "ichiidev.github.io/short.io-docs",
+  "shotsbyharjot":"https://harjotsinghh.github.io/captures_by_harjot",
   "shrimple": "shrimplejs.github.io",
   "shuffle": "vestride.github.io/Shuffle",
   "shuwan9": "shuwan9.github.io",
